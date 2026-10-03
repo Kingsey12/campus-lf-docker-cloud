@@ -160,4 +160,4 @@ The REST API is stateless and stores application data in Firestore, so multiple 
 
 ## 14. Demo Procedure
 
-Use [DEMO_GUIDE.md](DEMO_GUIDE.md) for the professor presentation sequence, including health, logs, failure recovery, and scalability explanation.
+Use [DEMO_GUIDE.md](DEMO_GUIDE.md)
