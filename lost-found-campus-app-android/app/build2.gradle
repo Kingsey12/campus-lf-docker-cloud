@@ -1,0 +1,11 @@
+android {
+    compileSdk 34 // The SDK version used to compile the app
+
+    defaultConfig {
+        applicationId "com.campus.lostfound"
+        minSdk 24     // Minimum Android version required to run the app
+        targetSdk 34  // The Android version the app is optimized for
+
+        // ...
+    }
+}

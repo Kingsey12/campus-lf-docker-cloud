@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== PREMIUM COSMIC DARK PALETTE ===== -->
+
+    <!-- Backgrounds -->
+    <color name="background">#0D1117</color>
+    <color name="secondary_background">#10151D</color>
+    <color name="card_color">#161B22</color>
+    <color name="surface">#161B22</color>
+    <color name="surfaceVariant">#1E2630</color>
+
+    <!-- Primary: Electric Cyan -->
+    <color name="primary">#0284C7</color>
+    <color name="onPrimary">#F0F6FC</color>
+    <color name="primaryContainer">#12304A</color>
+    <color name="onPrimaryContainer">#7DD3FC</color>
+
+    <!-- Secondary: Indigo Violet -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#30205C</color>
+    <color name="onSecondaryContainer">#E9D5FF</color>
+
+    <!-- Tertiary: Emerald -->
+    <color name="tertiary">#10B981</color>
+    <color name="onTertiary">#06251B</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#A0AEC0</color>
+    <color name="text_tertiary">#6E7681</color>
+
+    <!-- Surface -->
+    <color name="onSurface">#F0F6FC</color>
+    <color name="onSurfaceVariant">#A0AEC0</color>
+
+    <!-- Outline / Borders -->
+    <color name="outline">#30363D</color>
+    <color name="outline_bright">#3B4652</color>
+    <color name="card_stroke">#30363D</color>
+
+    <!-- Status: Lost (Red) -->
+    <color name="type_lost">#F43F5E</color>
+    <color name="type_lost_bg">#2A0A14</color>
+    <color name="type_lost_alpha">#33F43F5E</color>
+
+    <!-- Status: Found (Emerald) -->
+    <color name="type_found">#10B981</color>
+    <color name="type_found_bg">#002820</color>
+    <color name="type_found_alpha">#3310B981</color>
+
+    <!-- Error & Success -->
+    <color name="error">#F43F5E</color>
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+
+    <!-- Chat bubbles -->
+    <color name="bubble_you">#12304A</color>
+    <color name="bubble_other">#1E2630</color>
+    <color name="bubble_you_stroke">#0284C7</color>
+    <color name="bubble_other_stroke">#30363D</color>
+
+    <!-- Glow effects (alpha) -->
+    <color name="primary_glow">#200284C7</color>
+    <color name="secondary_glow">#208B5CF6</color>
+    <color name="fab_glow">#400284C7</color>
+</resources>

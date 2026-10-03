@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Night Mode: Softer Dark Palette -->
+    
+    <!-- Primary: Teal -->
+    <color name="primary">#0284C7</color>
+    <color name="onPrimary">#F0F6FC</color>
+    <color name="primaryContainer">#12304A</color>
+    <color name="onPrimaryContainer">#7DD3FC</color>
+
+    <!-- Secondary: Coral -->
+    <color name="secondary">#8B5CF6</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#30205C</color>
+    <color name="onSecondaryContainer">#E9D5FF</color>
+
+    <!-- Tertiary: Purple -->
+    <color name="tertiary">#10B981</color>
+    <color name="onTertiary">#06251B</color>
+    <color name="tertiaryContainer">#064E3B</color>
+    <color name="onTertiaryContainer">#A7F3D0</color>
+
+    <!-- Background & Surfaces: Soft Dark Blue -->
+    <color name="background">#0D1117</color>
+    <color name="onBackground">#F0F6FC</color>
+    <color name="surface">#161B22</color>
+    <color name="onSurface">#F0F6FC</color>
+    <color name="surfaceVariant">#1E2630</color>
+    <color name="onSurfaceVariant">#8B949E</color>
+    <color name="outline">#30363D</color>
+
+    <!-- Status & Semantic -->
+    <color name="error">#CF6679</color>
+    <color name="onError">#FFFFFF</color>
+    <color name="success">#66BB6A</color>
+    <color name="warning">#FFB74D</color>
+
+    <!-- Tag Colors -->
+    <color name="type_lost">#EF5350</color>
+    <color name="type_found">#66BB6A</color>
+</resources>

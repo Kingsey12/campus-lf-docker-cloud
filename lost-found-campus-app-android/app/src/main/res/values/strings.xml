@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Campus L&amp;F</string>
+    <string name="add_item">Add Item</string>
+    <string name="upload_item">Upload Item</string>
+    <string name="post_item">Post Item</string>
+    <string name="search_hint">Search by title, location, or category</string>
+    <string name="title_hint">Item title (example: Blue backpack)</string>
+    <string name="location_hint">Last seen location</string>
+    <string name="date_hint">Date (example: 2026-05-14)</string>
+    <string name="contact_name_hint">Contact name</string>
+    <string name="contact_hint">Email or phone</string>
+    <string name="description_hint">Description</string>
+    <string name="fill_required_fields">Please fill all required fields.</string>
+    <string name="item_posted_successfully">Item posted successfully.</string>
+    <string name="contact_owner">Contact Owner</string>
+    <string name="open_chat">Open Chat</string>
+    <string name="contact_not_recognized">Contact is not recognized as email or phone. Use in-app chat instead.</string>
+    <string name="no_app_found">No suitable app found to open this action.</string>
+    <string name="delete">Delete</string>
+    <string name="delete_item_title">Delete item</string>
+    <string name="delete_item_message">Delete "%1$s" from the list?</string>
+    <string name="item_deleted">Item deleted.</string>
+    <string name="location_template">Location: %1$s</string>
+    <string name="date_template">Date: %1$s</string>
+    <string name="owner_template">Owner: %1$s</string>
+    <string name="chat_with_template">Chat with %1$s</string>
+    <string name="chat_hint">Write a message...</string>
+    <string name="send">Send</string>
+    <string name="chat_load_error">Could not load chat.</string>
+    <string name="initial_owner_message">Hello, I posted this %1$s item. How can I help?</string>
+    <string name="owner_auto_reply">Thanks for reaching out. Please share a unique detail so I can verify ownership.</string>
+    <string name="all_categories">All categories</string>
+    <string name="all_types">All types</string>
+    <string name="select_image">Select Image</string>
+    <string name="change_image">Change Image</string>
+    <string name="nav_browse">Discover</string>
+    <string name="nav_chats">Messages</string>
+    <string name="nav_posts">My listings</string>
+    <string name="nav_account">Profile</string>
+    <string name="section_chats_title">Messages</string>
+    <string name="section_posts_title">My listings</string>
+    <string name="section_account_title">Profile</string>
+    <string name="empty_chats">Your messages will appear here.</string>
+    <string name="empty_posts">You have not created a listing yet.</string>
+    <string name="account_local_title">Campus L&amp;F profile</string>
+    <string name="account_local_description">Your listings and messages are saved on this device.</string>
+    <string name="account_posts_count">Listings: %1$d</string>
+    <string name="account_chats_count">Conversations: %1$d</string>
+    <string name="account_add_post">Create a listing</string>
+    <string name="empty_chats_title">No messages yet</string>
+    <string name="empty_posts_title">No listings yet</string>
+    <string name="chat_you">You</string>
+    <string name="chat_owner">Listing owner</string>
+    <string name="cloud_load_error">Could not sync listings. Showing saved data.</string>
+    <string name="cloud_save_error">Could not save this change to the cloud.</string>
+    <string name="cloud_saving">Saving to cloud...</string>
+    <string name="auth_error">Could not create a secure account on this device.</string>
+    <string name="auth_invalid_input">Enter a valid email and a password with at least 6 characters.</string>
+    <string name="auth_gachon_only">Only @gachon.ac.kr university emails are allowed.</string>
+    <string name="auth_verify_sent">Verification email sent. Confirm it, then sign in again.</string>
+    <string name="auth_verify_error">Could not send verification email. Check the address and try again.</string>
+    <string name="auth_reset_sent">Password reset email sent. Check your Gachon inbox.</string>
+    <string name="auth_reset_error">Could not send reset email. Check the Gachon email address.</string>
+    <string name="auth_enter_email_for_reset">Enter your @gachon.ac.kr email first.</string>
+    <string name="auth_wrong_password">Incorrect password. Try again or use Forgot ID or password.</string>
+    <string name="auth_user_not_found">No account exists for this Gachon email.</string>
+    <string name="auth_email_in_use">This email already has an account. Use Sign in.</string>
+    <string name="auth_invalid_email">Enter a valid @gachon.ac.kr email address.</string>
+    <string name="auth_not_verified">Email is not verified. Check your inbox and verify it first.</string>
+    <string name="auth_working">Please wait...</string>
+    <string name="login_required_for_chat">Sign in to use private chat.</string>
+    <string name="sign_in">Sign in</string>
+    <string name="cloud_image_error">Could not upload the image. Check Firebase Storage rules.</string>
+
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Bags</item>
+        <item>ID Cards</item>
+        <item>Clothing</item>
+        <item>Accessories</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+
+    <string-array name="categories_filter">
+        <item>All categories</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Bags</item>
+        <item>ID Cards</item>
+        <item>Clothing</item>
+        <item>Accessories</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="types_filter">
+        <item>All types</item>
+        <item>Lost</item>
+        <item>Found</item>
+    </string-array>
+</resources>
